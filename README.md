@@ -2,4 +2,4 @@
 
 Simple 2 Player chess game.
 
-Link: 
+Link: https://rishi-menon.github.io/Chess_2Player_JS/
